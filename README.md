@@ -56,6 +56,4 @@ world.
 relating to the 2016 US Presidential Election. Ethical and privacy issues were raised when
 personal data was collected from sources including Facebook users without their consent.
 
-- WannaCry, a piece of ransomware, targeted computers running Microsoft Windows in
-2017. The ransomware had a significant global impact and affected NHS computer
-systems in England and Scotland.
+- WannaCry, a piece of ransomware, targeted computers running Microsoft Windows in 2017. The ransomware had a significant global impact and affected NHS computer systems in England and Scotland.

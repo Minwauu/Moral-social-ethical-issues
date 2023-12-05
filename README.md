@@ -96,4 +96,23 @@ personal data was collected from sources including Facebook users without their 
     - Unauthorised access - e.g breaking into a system
     - Unauthorised access with intent to commit an offence - e.g breaking into a system and stealing data
     - Unauthorised modification of data e.g distribution of viruses
+   
+  ### Data Protection Act
+
+- The purpose of the data protection act is to ensure that data collected about individuals by companies and other organisations are stored securely and used safely, fairly and appropriately.
+
+  - Organisations must conform to the eight principles of the DPA
+  - The DPA controls the way personal data are used
+  - Personal data are data that allow an individual to be identified (this can be name, biometric data etc.)
+  - Gives legal rights to people who have information stored about them.
+
+- Eight principles of the DPA:
+  - Personal information must be used fairly and lawfully
+  - Personal information must be used only for limited purposes
+  - Personal information must be adequate, relevant and not excessive
+  - Personal information must be accurate and up to date
+  - Personal information must not be kept for longer than is necessary
+  - Personal information must be used within the rights of the person
+  - Personal information must be kept securely
+  - Personal information must not be transferred outside the EU.
 

@@ -57,3 +57,15 @@ relating to the 2016 US Presidential Election. Ethical and privacy issues were r
 personal data was collected from sources including Facebook users without their consent.
 
 - WannaCry, a piece of ransomware, targeted computers running Microsoft Windows in 2017. The ransomware had a significant global impact and affected NHS computer systems in England and Scotland.
+
+## Legislation
+
+### Challenges facing legislators 
+
+- Technology can be used for illegal purposes in unforeseen ways. And because technology changes rapidly the law cannot keep up with these changes.
+- Internet is global, so any activity that may be legal in one country may be illegal in another.
+- Encryption allows the monitoring of criminal acivity much more difficult.
+- Crimes may be committed by states.
+- Powerful technology companies lobby for their own interests.
+
+

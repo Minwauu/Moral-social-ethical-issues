@@ -116,3 +116,11 @@ personal data was collected from sources including Facebook users without their 
   - Personal information must be kept securely
   - Personal information must not be transferred outside the EU.
 
+- How does the DPA apply to schools:
+
+  Schools hold lost of personal data about pupils:
+  - Personal information must be used only for limited purposes - data about pupils can only be used for supporting pupils' education.
+  - Personal information must not be kept for longer than is necessary - When a pupil leaves a school data needs to be deleted. Some data however schools can keep such as exam results.
+  - Personal information must be accurate and up to date - contact information for parents must be updated regularly in case there is an emergency in school.
+  - Personal information must be kept securely - laptops and USB sticks need to be encrypted in case these devices get stolen.
+  - Personal information must not be transferred outside the EU - external providers such as cloud services need to be in the EU. 

@@ -68,4 +68,32 @@ personal data was collected from sources including Facebook users without their 
 - Crimes may be committed by states.
 - Powerful technology companies lobby for their own interests.
 
+  ### Computer Misuse Act (1990)
+
+  - Anti-hacking legislation
+  - Prevent unauthorised access to computer
+  - Intentionally impair the operation of computer systems e.g:
+    - denial of service (DDOS) on web servers
+    - distributing viruses
+
+  - It involves:
+    - Spreading viruses
+    - Hacking (unauthorised access)
+    - Data theft
+    - Data destructions
+    - Denial-of-service attacks
+   
+  - Why?:
+    - Bored young people seeking the thrill of breaking into big systems
+    - Retribution (e.g a disgruntled employee who has been sacked)
+    - Political activism (e.g Wikileaks)
+    - Stealing data for commercial gain
+    - Stealing personal data for blackmail
+    - Stealing financial data (e.g banking details)
+    - Stealing data for criminal gain.
+
+  - Three levels of offence:
+    - Unauthorised access - e.g breaking into a system
+    - Unauthorised access with intent to commit an offence - e.g breaking into a system and stealing data
+    - Unauthorised modification of data e.g distribution of viruses
 

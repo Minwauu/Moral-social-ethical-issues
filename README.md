@@ -97,6 +97,9 @@ personal data was collected from sources including Facebook users without their 
     - Unauthorised access with intent to commit an offence - e.g breaking into a system and stealing data
     - Unauthorised modification of data e.g distribution of viruses
    
+    ![image](https://github.com/Minwauu/Moral-social-ethical-issues/assets/110039102/2fa50052-f508-4d7e-bec9-f3c9b7c4d741)
+
+   
   ### Data Protection Act
 
 - The purpose of the data protection act is to ensure that data collected about individuals by companies and other organisations are stored securely and used safely, fairly and appropriately.

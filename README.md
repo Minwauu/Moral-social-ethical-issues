@@ -137,3 +137,13 @@ personal data was collected from sources including Facebook users without their 
   - Personal information must be accurate and up to date - contact information for parents must be updated regularly in case there is an emergency in school.
   - Personal information must be kept securely - laptops and USB sticks need to be encrypted in case these devices get stolen.
   - Personal information must not be transferred outside the EU - external providers such as cloud services need to be in the EU. 
+
+### Regulatory and Investigatory Powers Act 2000 - Investigatory Powers Act 2016
+
+RIPA is legislation that allows public authorities to carry out mass surveillance on electronic communications. This is justified on the basis of monitoring the communcations of terrorists and other serious criminals. However, civil liberty campaigners argue that this legislation is extraordinarily powerful and can infringe our civil liberties and that RIPA has been misused in petty cases. In a liberal democracy there will always be a need to balance security and freedom, but where we draw that line will always be a matter of debate.
+
+![image](https://github.com/Minwauu/Moral-social-ethical-issues/assets/110039102/9ccd47f1-3a21-4857-a0d8-46cd2a1a42a8)
+
+### Copyright
+
+Copyright is a law that protects the creators of original pieces of work. Therefore when someone creates something original like a movie, photograph, song, book, video game or painting no one else has the right to use or copy it without permission from the creator. This ensures that people can be rewarded for their work and offers protection to intellectual property. 

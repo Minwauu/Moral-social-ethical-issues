@@ -99,6 +99,16 @@ personal data was collected from sources including Facebook users without their 
    
     ![image](https://github.com/Minwauu/Moral-social-ethical-issues/assets/110039102/2fa50052-f508-4d7e-bec9-f3c9b7c4d741)
 
+  - Special category data is personal data that needs more protection because it is sensitive. They include:
+    - personal data revealing racial or ethnic origin
+    - personal data revealing political opinions
+    - personal data revealing religious or philosophical beliefs
+    - personal data revealing trade union membership
+    - genetic data
+    - biometric data (where used for identification purposes)
+    - data concerning health
+    - data concerning a person’s sex life
+    - data concerning a person’s sexual orientation
    
   ### Data Protection Act
 

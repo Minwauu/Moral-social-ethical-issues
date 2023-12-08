@@ -147,3 +147,26 @@ RIPA is legislation that allows public authorities to carry out mass surveillanc
 ### Copyright
 
 Copyright is a law that protects the creators of original pieces of work. Therefore when someone creates something original like a movie, photograph, song, book, video game or painting no one else has the right to use or copy it without permission from the creator. This ensures that people can be rewarded for their work and offers protection to intellectual property. 
+
+### Environment Impacts of computers
+
+Positive:
+- Less reliance on paper
+- More opportunity for online global communication and collaboration thereby saving on travel and associated pollution.
+- Greater insight of environment and climate through using computers to model and analyse and process environmental data.
+
+Negative:
+- The disposal of computer waste is a big problem because they contain many toxic chemicals. Often old computing equipment is illegally shipped for disposal for developing countries.
+- The growth in cloud computing means a greater need for storing data online. For this data centres are used but they require huge amounts of electricity, thereby contributing to climate change.
+- Cobalt is a key element required for Lithium batteries for powering mobile devices. Much of the World's cobalt is mined in the Congo even by very young children.
+- Bitcoin mining.
+
+### Cyber attacks
+
+- WannaCry ransomware attack on NHS
+- Stuxnet Virus
+- General hacks
+- The Russian military intelligence service have been responsible for a number of high profile cyber attacks.
+- In 2016, the Democratic National Committee (DNC) were hacked and numerous documents damaging to Hillary CLinton's presidential campaign were publicy released.
+
+![image](https://github.com/Minwauu/Moral-social-ethical-issues/assets/110039102/325c6e5d-3032-466b-870b-33df23437d4e)

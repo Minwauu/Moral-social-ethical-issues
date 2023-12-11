@@ -170,3 +170,10 @@ Negative:
 - In 2016, the Democratic National Committee (DNC) were hacked and numerous documents damaging to Hillary CLinton's presidential campaign were publicy released.
 
 ![image](https://github.com/Minwauu/Moral-social-ethical-issues/assets/110039102/325c6e5d-3032-466b-870b-33df23437d4e)
+
+- Piracy: Illegaly copying and distributing copyrighted material.
+- Patent: An inventor has the exclusive right to create, use and sell an invention for a fixed period of time.
+- Copyright: Work is protected from being used and copied without the owners permission.
+- Plagiarism: To pass off someone else's work as your own
+- Copyright infrigement: To break the law with regards to copyright material
+- Fair use: To legally use copyrighted work.

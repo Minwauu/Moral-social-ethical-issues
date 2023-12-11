@@ -177,3 +177,12 @@ Negative:
 - Plagiarism: To pass off someone else's work as your own
 - Copyright infrigement: To break the law with regards to copyright material
 - Fair use: To legally use copyrighted work.
+
+### Creative commons licences 
+
+- Allows people to have their copyrighted material released under creative common licences (CLL). This means the creator of the work have explicitly given anyone permission use the work.
+
+- There are 3 types of CCL:
+  - Public domain: can use the works for any purpose without restriction
+  - Attribution license: works can be used and copied, but the creator must be acknowledged.
+  - Attribution non-commerical license: can be used for any purpose but not to make money!
